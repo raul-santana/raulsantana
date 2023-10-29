@@ -3,7 +3,7 @@
 <!-- <a href="https://instagram.com/byraulsantana"><img src="https://img.shields.io/badge/-@byraulsantana_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> -->
 <!-- <a href="https://raulsantana.com.br"><img src="https://img.shields.io/badge/-raulsantana.com.br-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a> -->
 <a href="https://www.linkedin.com/in/devraul/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="ti.raul77@gmail.com@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="ti.raul77@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-ti.raul77@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
 
