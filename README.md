@@ -11,7 +11,7 @@
 
 - 👨🏻‍💻 &nbsp; Desde que me lembro, estou apaixonado por computadores e tecnologia. Minha jornada começou quando eu tinha apenas 4 anos de idade e tive meu primeiro contato com o mágico mundo da informática. Esse fascínio me acompanhou ao longo dos anos, até que em 2019, decidi levar minha paixão a um novo patamar ao ingressar em um curso técnico de informática no SENAC.
 
-Foi lá que tive meu primeiro gostinho da programação, e desde então, decidi trilhar o emocionante caminho do desenvolvimento de software. Com dedicação e determinação, avancei na minha jornada e agora sou um analista de programação graduado em análise e desenvolvimento de sistemas com uma paixão ardente por resolver problemas e criar soluções inovadoras através do código.
+- 📚 Foi lá que tive meu primeiro gostinho da programação, e desde então, decidi trilhar o emocionante caminho do desenvolvimento de software. Com dedicação e determinação, avancei na minha jornada e agora sou um analista de programação graduado em análise e desenvolvimento de sistemas com uma paixão ardente por resolver problemas e criar soluções inovadoras através do código.
 
 - 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira a área de desenvolvimento web. Utilizo a stack JavaScript (Node e React) para desenvolver em ambas as frentes.
 
