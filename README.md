@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, eu sou o Raul Santana, um desenvolvedor full stack apaixonado pelo que faz!</h1>
+<h1>👋 &nbsp;Olá, eu sou o 🐺Raul Santana, um desenvolvedor full stack apaixonado por transformar ideias em código!</h1>
 <p align="center">
 <!-- <a href="https://instagram.com/byraulsantana"><img src="https://img.shields.io/badge/-@byraulsantana_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> -->
 <!-- <a href="https://raulsantana.com.br"><img src="https://img.shields.io/badge/-raulsantana.com.br-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a> -->
